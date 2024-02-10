@@ -1,2 +1,2 @@
 # OfflineJsonToRecyclerView
-Offline Json To Recycler View from raw resource directory
+100% working Offline Json To Recycler View from raw resource directory
